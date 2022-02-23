@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter writ by Mijn Heer Fagel, pensioner of Holland, to Mr. James Stewart, advocate giving an account of the Prince and Princess of Orange's thoughts concerning the repeal of the test and the penal lavvs.</title>
+            <author>Fagel, Gaspar, 1634-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41281</idno>
+            <idno type="STC">Wing F87</idno>
+            <idno type="STC">ESTC R176916</idno>
+            <idno type="EEBO-CITATION">12802002</idno>
+            <idno type="OCLC">ocm 12802002</idno>
+            <idno type="VID">94070</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41281)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94070)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 379:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter writ by Mijn Heer Fagel, pensioner of Holland, to Mr. James Stewart, advocate giving an account of the Prince and Princess of Orange's thoughts concerning the repeal of the test and the penal lavvs.</title>
+                  <author>Fagel, Gaspar, 1634-1688.</author>
+                  <author>Stewart, James, Sir, 1635-1713.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Amsterdam :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Printed in double columns.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>Mary --  II, --  Queen of England, 1662-1694.</term>
+               <term>Test Act (1673)</term>
+               <term>Dissenters, Religious --  Legal status, laws, etc. --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James II, 1685-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:94070:1"/>
+            <pb n="1" facs="tcp:94070:1"/>
+            <head>A LETTER, Writ by <hi>Mijn Heer FAGEL,</hi> PENSIONER of <hi>HOLLAND,</hi> TO Mr. <hi>JAMES STEWART,</hi> Advocate; Giving an Account of the PRINCE and PRINCESS OF ORANGE'S Thoughts concerning the <hi>Repeal</hi> of the <hi>TEST,</hi> and the <hi>PENAL LAVVS.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Am extream ſorry, that my ill health hath ſo long hindered me from Anſwering thoſe Letters, in which you ſo earneſtly deſired to know of me, what their <hi>Highneſſes</hi> thoughts are, concerning the Repeal of the <hi>Penal Laws,</hi> and more particularly of that concerning the <hi>Teſt; I</hi> beg you to aſſure your ſelf, that <hi>I</hi> will deal very plainly with your in this matter, and without Re<g ref="char:EOLhyphen"/>ſerve, ſince you ſay that your Letters were writ by the <hi>King</hi>'s knowledge and allowance. I muſt then firſt of all aſſure you very poſitively, that their <hi>Highneſſes</hi> have often declared, as They did it more particularly to the Marquis of <hi>Albeville,</hi> His Ma<g ref="char:EOLhyphen"/>jeſties <hi>Envoy</hi> Extraordinary to the <hi>States,</hi> that it is their Opinion, <hi>That no Chriſtian ought to be perſe<g ref="char:EOLhyphen"/>cuted for his Conſcience, or be ill uſed becauſe he differs from the publick and eſtabliſhed Religion:</hi> And there<g ref="char:EOLhyphen"/>fore, They can <hi>conſent,</hi> that the <hi>Papiſt</hi>'s in <hi>England, Scotland</hi> and <hi>Ireland</hi> be ſuffered to continue in their <hi>Religion,</hi> with as much Liberty as is allowed them by the <hi>States</hi> in theſe <hi>Provinces;</hi> in which it cannot be denied, that they enjoy a full Liberty of Conſcience. And as for the <hi>Diſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enters,</hi> Their <hi>Highneſſes</hi> do not only <hi>conſent,</hi> but do heartily ap<g ref="char:EOLhyphen"/>prove of their having an entire <hi>Liberty,</hi> for the full Exerciſe of their Religion, without any trouble or hindrance; ſo that none may be able to give them the left deſturbance upon that account.</p>
+            <p>And their <hi>Highneſſes</hi> are very ready, in caſe, His Majeſty ſhall think fit to deſire it, to declare their willingneſs to concur in their ſetling, and confirm<g ref="char:EOLhyphen"/>ing this Liberty, and as far as it lies in them, they will protect and defend it, and accoring to the Language of Treaties, They will confirm it with their <hi>Guaranty,</hi> of which you made mention in-yours.</p>
+            <p>And if His Majeſty ſhall think fit further to de<g ref="char:EOLunhyphen"/>ſire their concurrence in the Repealing of the <hi>Pe<g ref="char:EOLhyphen"/>nal Laws,</hi> They are ready to give it; <hi>provided al<g ref="char:EOLhyphen"/>ways that thoſe Laws remain ſtill in their full vigour by whech the</hi> R. <hi>Catholicks are ſhut out of both Houſes of Parliament, and out of all publick Employments, Eccleſiaſtical, Civil and Military;</hi> as likewiſe all thoſe other Laws, which confirm the Proteſtant Religion, and which ſecures it againſt all the at<g ref="char:EOLhyphen"/>tempts of the <hi>Roman Catholicks.</hi>
+            </p>
+            <p>But Their Highneſſes cannot agree to the Repeal of the <hi>Teſt,</hi> or of thoſe other <hi>Penal Laws</hi> laſt men<g ref="char:EOLhyphen"/>tioned, that tend to the ſecurity of the Proteſtant Religion; ſince the <hi>R. Catholicks</hi> receive no o<g ref="char:EOLhyphen"/>ther prejudice from thoſe, than the being exclud<g ref="char:EOLhyphen"/>ed from parliaments, or from publick Employ<g ref="char:EOLhyphen"/>ments. And that by them the Proteſtant Religion is covered from all the Deſigns of the <hi>R. Catholicks</hi> againſt it, or againſt the publick ſafety; And nei<g ref="char:EOLhyphen"/>ther the <hi>Teſt</hi> nor theſe other <hi>Laws</hi> can be ſaid to
+<pb n="2" facs="tcp:94070:2"/>carry in them any ſeverity againſt the Roman Ca<g ref="char:EOLhyphen"/>tholicks upon account of their Conſciences: They are only proviſions quallifying men to be Members of Parliament, or to be capable of bearing Office; by which they muſt declare before God and Men, that they are for the Proteſtant Religion. So that indeed, all this amounts to no more than a ſecur<g ref="char:EOLhyphen"/>ing the <hi>Proteſtant Religion</hi> from any Prejudices that it may receive from the <hi>R. Catholick.</hi>
+            </p>
+            <p>Their <hi>Highneſſes</hi> have thought and do ſtill think, that more than this ought not to be askt, or ex<g ref="char:EOLhyphen"/>pected from Them: ſince by this means, the <hi>Ro<g ref="char:EOLhyphen"/>man Catholicks</hi> and their Poſterity will be for ever ſecured from all trouble in their perſons or eſtates, or in the Exerciſe of their Religion; and that the <hi>Roman Catholicks</hi> ought to be ſatisfied with this, and not to diſquiet the Kingdom becauſe they cannot be admitted to ſit in Parliament, or to be in Employments; or becauſe thoſe <hi>Laws,</hi> in which the ſecurity of the <hi>Proteſtant Religion</hi> does chiefly conſiſt, are not Repealed, by which they may be put in a condition to overturn it.</p>
+            <p>Their <hi>Highneſſes</hi> do alſo believe, that the <hi>Diſ<g ref="char:EOLhyphen"/>ſenters</hi> will be fully ſatisfied when they ſhall be for ever covered from all danger of being diſturbed, or puniſhed for the free Exerciſe of their Religion, upon any ſort of pretence whatſoever.</p>
+            <p>Their <hi>Highneſſes</hi> having declared themſelves ſo poſitively in theſe matters, it ſeems very plain to me, that They are far from being any hindrance to the Freeing the <hi>Diſſenters</hi> from the Severity of the <hi>Penal Laws;</hi> ſince they are ready to uſe their utmoſt endeavours for the Eſtabliſhing of it; nor do they at all preſs the denying to the <hi>Roman Ca<g ref="char:EOLhyphen"/>tholicks</hi> the exerciſe of their Religion, provided it be managed modeſtly, and without Pomp or Oſtentation. As for my own part, I ever was and ſtill am very much againſt all thoſe, who would perſecute any Chriſtian becauſe he differs from the publick and Eſtabliſhed Religion: And I hope by the Grace of God to continue ſtill in the ſame mind; for ſince that <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight, with which Religion illuminates our mind, is according to my ſenſe of things, purely an effect of the Mercy of God to us, we ought then, as I think, to render to God all poſſible Thanks for his Goodneſs to us: and to have Pity for thoſe who are ſtill ſhut up in Error, even as God has pitied us, and put up moſt earneſt Prayers to God, for bringing thoſe into the way of Truth, who ſtray from it, and to uſe all gentle and friendly methods for reducing them to it.</p>
+            <p>But I confeſs, I could never comprehend how any that profeſs themſelves Chriſtians, and that may enjoy their Religion freely and without any diſturbance, can judge it lawful for them to go a<g ref="char:EOLhyphen"/>bout to deſturb the Quiet of any <hi>Kingdom</hi> or <hi>State,</hi> or to overturn Conſtitutions, that ſo they them<g ref="char:EOLhyphen"/>ſelves may be admitted to Employments, and that thoſe Laws in which the Security and Quiet of the Eſtabliſhed Religion conſiſts, ſhould be ſhaken.</p>
+            <p>It is plain, that the <hi>Roformed Religion</hi> is by the Grace of God and by the Laws of the Land, en<g ref="char:EOLhyphen"/>acted by both King and Parliament, the publick and eſtabliſhed Religion both in <hi>England Sc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tland</hi> and <hi>Ireland;</hi> and that it is provided by thoſe Laws that none can be admitted either to a place in Parliament, or to any publick Employment except thoſe that do openly declare, that they are of the Proteſtant Religion, and not Roman Catholicks; and it is alſo provided by thoſe Laws, that the Proteſtant Religion ſhall be in all time coming ſe<g ref="char:EOLhyphen"/>cured from the Deſigns of the Roman Catholicks againſt it; in all which <hi>I</hi> do not ſee, theſe Laws contain any Severity, either againſt the Perſons or Eſtates of thoſe who cannot take thoſe <hi>Teſts,</hi> that are contrary to the Roman Catholick Religi<g ref="char:EOLhyphen"/>on; all the inconvenience that can redound to them from thence, is, that their Perſons, their Eſtatas, and even, the Exerciſe of their Religion being aſſurrd to-them, only they can have no ſhare in the Government, nor in Offices of Truſt, as long as their Conſciences do not allow them to take theſe <hi>Teſts:</hi> and they are not ſuffered to do any thing that is to the prejudice of the <hi>Reformed Religion.</hi>
+            </p>
+            <p>Since, as I have already told you, Their <hi>High<g ref="char:EOLhyphen"/>neſſes</hi> are ready to concur with His Majeſty for the Repeal of thoſe <hi>Penal Laws,</hi> by which men are made liable to fines or other Puniſhments.</p>
+            <p>So I ſee there Remains no difficulty concerning the Repealing the <hi>Penal Laws,</hi> but only this, that ſome would have the <hi>Roman Catholicks</hi> render'd capable of all publick Truſts and Employments, and that by conſequence, all thoſe, ſhould be Re<g ref="char:EOLhyphen"/>pealed that have ſecured the Proteſtant Religion againſt the deſigns of the Roman Catholicks, where others at the ſame time are not leſs earneſt to have thoſe Laws maintained in their full vigor; and think, that the chief Security of the eſtabliſh<g ref="char:EOLhyphen"/>ed Religion conſiſts in the preſerving of them Sa<g ref="char:EOLhyphen"/>cred and unſhaken.</p>
+            <p>It is certain, that there is no Kingdom, Com<g ref="char:EOLhyphen"/>monwealth, or any conſtituted Body or Aſſembly whatſoever, in which there are not Laws made for the Safe:y thereof; and that provide againſt all Attempts Whatſoever, that diſturb their Peace, and that preſcribe the Conditions and Quallities that they judge neceſſary for all that ſhall bear Employments in that Kingdom, State or Corporation: And no Man can pretend, that there is any Injury done him, that he is addmitted to Employments when he doth not ſatisfie the Conditions and Qualities re<g ref="char:EOLhyphen"/>quired.</p>
+            <pb n="3" facs="tcp:94070:2"/>
+            <p>Nor can it be denied, that there is a great dif<g ref="char:EOLhyphen"/>ferance to be obſerved in the conduct of thoſe of the <hi>Reformed Religion,</hi> and of the <hi>Roman Catholicks</hi> towards one another: the <hi>Roman Catholicks</hi> not being ſatisfied to exclude the <hi>Reformed</hi> from all places of profit or of Truſt, they do abſolutely ſuppreſs the whole Exerciſe of that <hi>Religion</hi> and ſeverely <hi>perſecute</hi> all that profeſs it; and this they do in all thoſe places where it is ſafe and without dan<g ref="char:EOLhyphen"/>ger, to carry on that rigour. And I am ſorry that we have at this preſent ſo many deplorable In<g ref="char:EOLhyphen"/>ſtances of this ſeverity before our eyes, that is at the ſame time put in practice in ſo many different places.</p>
+            <p>I would therefore gladly ſee one ſingle good reaſon to move a <hi>Proteſtant</hi> that fears God, and that is concerned for his <hi>Religion,</hi> to conſent to the Repealing of thoſe <hi>Laws</hi> that have been enact<g ref="char:EOLhyphen"/>ed by the Authority of King and Parliament, which have no other tendency but to the ſecurity of the <hi>Reformed Religin,</hi> and to the reſtraining of the <hi>Roman Catholicks</hi> from a capacity of overturning it; theſe <hi>Laws</hi> inflict nei<g ref="char:EOLhyphen"/>ther Fines nor Puniſhments, and do only exclude the <hi>Roman Catholicks</hi> from a ſhare in the Govern<g ref="char:EOLhyphen"/>ment, who by being in Employments muſt needs ſtudy to increaſe their Party, and to gain to it more Credit and Power, which by what we ſee every day, we muſt conclud, will be extreamly dangerous to the <hi>Reformed Religion<g ref="char:punc">▪</g>
+               </hi> end muſt turn to its great prejudice: ſince in all places, thoſe that are in publick Employments, do naturally Fa<g ref="char:EOLhyphen"/>vour that <hi>Religion</hi> of which they are, either more or leſs. And who would go about to perſwade me or any man elſe to endeavor to move Their <hi>Highneſſs,</hi> whome God hath honoured ſo far as to make them the Protecters of his Church, to approve of, or to conſent to things ſo hurtful, both to the <hi>Re<g ref="char:EOLhyphen"/>formed Religion</hi> and to the publick Saftey. nor can I, Sir, with your good leave, in any way grant what you apprehend, That no prejudice will thereby re<g ref="char:EOLhyphen"/>dound to the <hi>Reformed Religion</hi>
+            </p>
+            <p>I know it is commonly ſaid that the number, of the <hi>Roman Catholicks</hi> in <hi>England</hi> and <hi>Scotland</hi> is very inconſiderable; and that they are poſſeſſed on<g ref="char:EOLhyphen"/>ly of a very ſmall number of the places, of Truſt: tho eaven as to this, the caſe is quit different in <hi>Ierland:</hi> yet this you muſt of neceſſity grant me that if their numbers are ſmall, then it is not rea<g ref="char:EOLhyphen"/>ſonable that the publick Peace ſhould be diſturb<g ref="char:EOLhyphen"/>ed on the account of ſo few perſons, eſpecially when ſo great a favour may be offered to them; ſuch as the free Exerciſe of their <hi>Religion</hi> would be: and if their numbers are greater, then there <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſo much the more reaſon to be affraid of them; I do indeed believe that <hi>Roman Catholicks</hi> as things at preſen ſtand, will not be very deſirous to be in Publick Offices and Imployments, nor that they will make any attempts upon the <hi>Reformed Re<g ref="char:EOLhyphen"/>ligion,</hi> both becauſe this is contrary to Law, and becauſe of the great Inconveniences that this may bring at ſom other time both on their Perſons, and their Eſtates: yet if the Reſtraints of the <hi>Law</hi> were none taken off, you would ſee them brrught into the Government, and the Chief Offices and Places of Truſt would be put in their hands; nor will it be eaſie to His <hi>Majeſty</hi> to reſiſt them in this, how ſtedfaſt ſoever he may be; for they will certain<g ref="char:EOLhyphen"/>ly preſs him hard in it, and they will repreſent this to the <hi>King,</hi> as a matter in which his Conſcience will be concerned; and when they are poſſeſſed of the Publick Offices, what will be left for the <hi>Proteſtants</hi> to do, who will find no more the ſupport of the Law, and can expect little Encouragement from ſuch Magiſtrates? and on the other hand, the Ad<g ref="char:EOLhyphen"/>vantages that the <hi>Roman Catholicks</hi> would find in being thus ſet looſe from all reſtraints, are ſo plain, that it were a loſs of time to go about the proving it. <hi>I</hi> neither can nor will doubt of the ſincerity of His Majeſties intentions, and that He has no other deſign before Him in this matter, but that all his Subjects may injoy in all things the ſame Rights and Freedoms.</p>
+            <p>But plain Reaſon, as well as the expeariance of all Ages, the preſent as well as the paſt, ſhews, that it will be impoſſiable for <hi>Roman Catholicks</hi> and <hi>Proteſtan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l,</hi> when they are mixed together in places of Truſt and publick Employments, to live to<g ref="char:EOLunhyphen"/>gether peacablly, or to maintain a good Correſ<g ref="char:EOLhyphen"/>pondence together. They will be certatnly al<g ref="char:EOLhyphen"/>ways jealous of one another: For the Principle and the Maxiams of both <hi>Religions</hi> are ſo oppſite to one another, that in my opinion I do not ſee how it will be in the power of any Prince or King whatſoeves, to keep down thoſe Suſpitions an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Animoſities which will be apt to ariſe upon all occaſions.</p>
+            <p>As for that which you apprehend that the <hi>Diſ<g ref="char:EOLhyphen"/>ſenters</hi> ſhall not be delivered from the <hi>Penal Laws</hi> that are made againſt them, unleſs at the ſame time the <hi>Teſt</hi> be likewise repealed: This will be in<g ref="char:EOLhyphen"/>deed a great unhappineſs to them; but the <hi>Ro<g ref="char:EOLhyphen"/>man Catholicks</hi> are only to blame for it, who will rather be content that they and their Poſterity ſhould lie ſtill under the weight of the <hi>Penal Laws,</hi> and expoſed to the hatered of the whole Nation, than be ſtill reſtrained from a capacity of attempting any thing againſt the Peace and the Security of the <hi>Proteſtant Religion,</hi> And be de<g ref="char:EOLhyphen"/>prived of that ſmall advantage (if it is at all to be reckoned one) of having a ſhare in the Govrn<g ref="char:EOLhyphen"/>ment and publick Employments; ſince in all places of the World this has been always the pri<g ref="char:EOLhyphen"/>vilidge of the Religion that is eſtabliſhed by Law; and indeed. theſe Attempts of the Roman Catholicks ought to be ſo much the more ſuſpect<g ref="char:EOLhyphen"/>ed
+<pb n="4" facs="tcp:94070:3" rendition="simple:additions"/>and gaurded againſt by Proteſtants, in that they ſee that Roman Catholicks. even when li<g ref="char:EOLhyphen"/>able to the Severity of penal Laws, do yet en<g ref="char:EOLhyphen"/>deavor to perſwade His <hi>Majeſty,</hi> to make the Pro<g ref="char:EOLhyphen"/>teſtants, whether they will or not, diſſolve that Security which they have for their Religion: and to clear a way for bringing in the Roman Catolicks Government, and to publick Employments: in which caſe there would remain no relief for them but what were to be expected from a Roman Ca<g ref="char:EOLhyphen"/>tholick Govermtent<g ref="char:punc">▪</g>
+            </p>
+            <p>Such then will be very unjuſt to Their <hi>High<g ref="char:EOLhyphen"/>neſſes,</hi> who ſhall blame them for any inconveni<g ref="char:EOLhyphen"/>ency that may ariſe from thence; ſince they have declarrd themſelves ſo freely on this Subject, and that ſo much to the advantage even of the Ro<g ref="char:EOLhyphen"/>man Catholicks. And ſince the Settlement of mattters ſticks at this ſingle point, that Their <hi>Highneſſes</hi> cannot be brought to conſent to things that are ſo contrary to Laws already in being, and that are ſo dangerous and ſo hurtful to the Pro<g ref="char:EOLhyphen"/>teſtant Religion, as the admitting of Roman Ca<g ref="char:EOLhyphen"/>tholicks to a ſhare in the Government, and to places of Truſt, and the Repealing of thoſe Laws, that can have no other effect but the Seeuring of the Proteſtant Religion from all the Attempts of the Roman Catholicks againſt it would be.</p>
+            <p>You write, <hi>That the Roman Catholicks in theſe Provinces are not ſhut out from Employments and places of Truſt;</hi> But in this you are much miſta<g ref="char:EOLhyphen"/>ken. For our Laws are expreſs, excluding them by name from all ſhare in the Government, and from all Employments either of the Poliey or Juſtice of our Country. It is true, I do not know of any expreſs Law, that ſhuts them out of Military Employments; that had indeed been hard, ſince in the firſt Formation of our State they joyned with us in defending our publick Liberty, and did us eminent ſervice during the Wars; therefore they were not ſhut out from thoſe Military Employments; for the publick Safety was no way endanger'd by this both becauſe their numbers that ſerved in our Troops were not great, and becauſe the States could eaſily, prevent any Inconvenience that might ariſe out of that; which could not have been done ſo ea<g ref="char:EOLhyphen"/>ſily, if the Roman Catholicks had been admitted to a ſhare in the Government, and in the Policy or Juſtice of our State.</p>
+            <p>I am very certain of this, of which <hi>I</hi> could give very good proofs, that there is nothing which Their <hi>Highneſſes</hi> deſire ſo much, as that His Maj<g ref="char:EOLhyphen"/>eſty may Reign happily, and in an intire Con<g ref="char:EOLhyphen"/>fidence with His Subjects; and that His Subjects being perſwaded of His Majeſties Fatherly affecti<g ref="char:EOLhyphen"/>on to them, may be ready to make him all the returns of Duty that are in their Power: But Their <hi>Highneſſes</hi> are convinced in their Conſcien<g ref="char:EOLhyphen"/>ces, that both the Proteſtant Religion and the Safety of the Nation, would be expoſed to moſt certain Dangers, if either the <hi>Teſt,</hi> or thoſe other <hi>Penal Laws,</hi> of which I have made frequent men<g ref="char:EOLhyphen"/>tion, ſhould be Repealed; <hi>Therefore they cannot conſent to this, nor concur with his Majeſty's Will; for they believe, they ſhould have much to Anſwer for to God, if the Conſideration of any preſent advantages ſhould carry them to conſent and concur in things which they believe would be not only dangerous but miſ<g ref="char:EOLhyphen"/>chievous to the Proteſtant Religion.</hi>
+            </p>
+            <p>Their <hi>Highneſſes</hi> have ever pay'd a moſt pro<g ref="char:EOLhyphen"/>found Duty to His Majeſty which they will al<g ref="char:EOLhyphen"/>ways continue to do; for they conſider them<g ref="char:EOLhyphen"/>ſelves bound to it, both by the Laws of God, and of Nature: But ſince the matter that is now in hand, relates not to the making of new Laws, but to the total Repealing of thoſe already made both by the King and Parliament; they do not ſee how it can be expected of them, that they ſhould conſent to ſuch a Repeal, to which they have ſo juſt an averſion, as being a thing that is contrary to the Laws and Cuſtoms of all Chriſtian States, whether Proteſtants or Papiſts, who re<g ref="char:EOLhyphen"/>ceive none to a ſhare in the Government, or to publick Employments, but thoſe who profeſs the publick and eſtabliſhed Religion, and that take care to ſecure it againſt all Attempts whatſoe<g ref="char:EOLhyphen"/>ver.</p>
+            <p>I do not think it neceſſary to demonſtrare to you how much Their <hi>Highneſſes</hi> are devoted to His Majeſty, of which they have given ſuch real Evidence as are beyond all verbal ones; and they are Reſolved ſtill to continue in the ſame Duty and Affection; or rather to Encreaſe it, if that is poſſible.</p>
+            <closer>
+               <signed>I am, SIR, Yours, <hi>&amp;c.</hi>
+               </signed>
+               <date>
+                  <hi>Nov.</hi> 4. 1687.</date>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Amſterdam,</hi> Printed in the Year 1688</p>
+            <pb facs="tcp:94070:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
